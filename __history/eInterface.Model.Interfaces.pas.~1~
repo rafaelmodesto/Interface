@@ -1,0 +1,16 @@
+unit Unit1;
+
+interface
+
+type
+
+  iPessoa = interface
+    ['{2279BFF3-66AB-4D50-B07F-5BE71AB8C025}']
+    function Nome(Value : String) : iPessoa;
+    function Sobrenome(Value : String) : iPessoa;
+    function NomeCompleto : String;
+  end;
+
+implementation
+
+end.

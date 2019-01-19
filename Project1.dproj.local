@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/01/19 11:46:50.235,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/01/19 11:47:20.847,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit2.pas=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/01/19 11:47:20.847,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit2.dfm=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019/01/19 11:47:25.339,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Project1.dproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/01/19 11:47:34.388,=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 11:51:30.086,=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit3.pas</Transaction>
+    <Transaction>2019/01/19 11:51:56.398,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.Pessoa.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit3.pas</Transaction>
+    <Transaction>2019/01/19 11:54:28.474,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.Interfaces.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 11:59:11.089,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.View.Principal.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.Interfaces.pas</Transaction>
+    <Transaction>2019/01/19 11:59:51.278,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.Interfaces.dfm=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit2.dfm</Transaction>
+    <Transaction>2019/01/19 11:59:51.278,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.Interfaces.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit2.pas</Transaction>
+    <Transaction>2019/01/19 12:00:41.843,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.el.Interfaces.dfm=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.Interfaces.dfm</Transaction>
+    <Transaction>2019/01/19 12:00:41.843,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.el.Interfaces.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.Interfaces.pas</Transaction>
+    <Transaction>2019/01/19 12:00:56.076,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.Interfaces.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.View.Principal.pas</Transaction>
+    <Transaction>2019/01/19 12:01:05.990,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.View.Principal.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.el.Interfaces.pas</Transaction>
+    <Transaction>2019/01/19 12:01:05.990,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.View.Principal.dfm=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.el.Interfaces.dfm</Transaction>
+    <Transaction>2019/01/19 13:26:53.623,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.PessoaFisica.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.Pessoa.pas</Transaction>
+    <Transaction>2019/01/19 13:27:30.367,=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 13:27:45.081,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.PessoaJuridica.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 13:50:55.760,=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 13:51:35.752,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Model.Pessoa.Factory.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 14:08:22.244,=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 14:08:45.147,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Controller.Pessoa.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 14:09:52.127,=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 14:10:06.765,C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\eInterface.Controller.Interfaces.pas=C:\Users\USER\Documents\Projetos Delphi\Interface\Aula1\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
